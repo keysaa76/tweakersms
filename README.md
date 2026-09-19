@@ -1,1 +1,2 @@
-# tweakersms
+# tweakersmsz
+beta tester v1
